@@ -36,11 +36,11 @@ copy and every result inside the organisation's own installation.
 
 | Repository | What it holds |
 | --- | --- |
-| [core](https://github.com/quality-data/core) | The platform's core and the Quality Data application |
-| [quality-sdk](https://github.com/quality-data/quality-sdk) | Installs, configures and updates an installation and its modules from signed versions |
-| [lake-rustfs](https://github.com/quality-data/lake-rustfs) | The data lake module on RustFS |
-| [query-trino](https://github.com/quality-data/query-trino) | The SQL query module on Trino |
-| [docs](https://github.com/quality-data/docs) | The user guide |
+| [core](https://github.com/government-data/core) | The platform's core and the Quality Data application |
+| [quality-sdk](https://github.com/government-data/quality-sdk) | Installs, configures and updates an installation and its modules from signed versions |
+| [lake-rustfs](https://github.com/government-data/lake-rustfs) | The data lake module on RustFS |
+| [query-trino](https://github.com/government-data/query-trino) | The SQL query module on Trino |
+| [docs](https://github.com/government-data/docs) | The user guide |
 
 ## Learn more
 
